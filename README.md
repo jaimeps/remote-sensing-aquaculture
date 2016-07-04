@@ -3,7 +3,6 @@
 <p align="center">
 	<img src="https://github.com/jaimeps/remote-sensing-aquaculture/blob/master/images/gee_logo.png" width="150">
 </p>
-
 ### Description
 This is a small project using [Google Earth Engine](https://developers.google.com/earth-engine/), a geospatial processing platform that combines a catalog of 30+ years of satellite images and Google's cloud-based computing power.
 
@@ -53,7 +52,7 @@ I would have liked to explore a larger area, increase the number of land cover t
 of northern Vietnam using multitemporal Landsat data* by Pham Thi Thanh Hien, 
 Martin Béland, Ferdinand Bonn, Kalifa Goïta & Jean-Marie Dubois
 I did not replicate their approach but reading it was a good starting point.
-- *MSAN631-03 Geographic Information Systems - Course Notes* David S. Saah, PhD
+- *MSAN631-03 Geographic Information Systems - Course Notes* by David S. Saah, PhD
 - Google Earth Engine Docs
 
 
