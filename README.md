@@ -32,7 +32,7 @@ In regard to the classification algorithm, I found satisfactory results with a C
 A confusion matrix and a summary of different accuracy metrics are printed to the console.
 
 ### Area measurement
-Once each pixel in the image is classified into one of the three types (water, vegetation and aquaculture), I measured the area (in square meters) covered by each type.
+Once each pixel in the image is classified into one of the three types (water, vegetation and aquaculture), I measured the area (in square meters) covered by each class.
 
 ### Results
 The following example (which corresponds to the period 2004-2005) summarizes the procedure: (1) the original image (in false color) after processing, (2) the image converted to tasseled cap, and (3) the classified image.
