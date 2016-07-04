@@ -1,6 +1,6 @@
 ## Remote sensing: Tracking aquaculture in South Vietnam through Google Earth Engine
 
-![GEE logo](https://github.com/jaimeps/remote-sensing-aquaculture/blob/master/images/gee_logo.png "GEE logo")
+![GEE logo](https://github.com/jaimeps/remote-sensing-aquaculture/blob/master/images/gee_logo.png "GEE logo"){:height="54px" width="256px"}
 
 ### Description
 This is a small project using [Google Earth Engine](https://developers.google.com/earth-engine/), a geospatial processing platform that combines a catalog of 30+ years of satellite images and Google's cloud-based computing power.
