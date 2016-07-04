@@ -40,17 +40,20 @@ The following example (which corresponds to the period 2004-2005) summarizes the
 <img src="https://github.com/jaimeps/remote-sensing-aquaculture/blob/master/images/result.png">
 We can appreciate that the model does a fairly decent job at identifying the different types of land cover in the image.
 
+<p align="center">
+	<img src="https://github.com/jaimeps/remote-sensing-aquaculture/blob/master/images/area_chart.png">
+</p>
 The line chart (with the series of the area covered by each type) shows a clear upward trend in the area used for aquaculture in South Vietnam, peaking around 2006.
 
 ### Next steps
 I would have liked to explore a larger area, increase the number of land cover types, and experiment with other sample areas (with the aim of increasing the accuracy of the classifier in cases where the satellite image is not clear).
 
 ### References
-- "Assessment of land-cover changes related to shrimp farming in two districts
-of northern Vietnam using multitemporal Landsat data" by Pham Thi Thanh Hien, 
+- *Assessment of land-cover changes related to shrimp farming in two districts
+of northern Vietnam using multitemporal Landsat data* by Pham Thi Thanh Hien, 
 Martin Béland, Ferdinand Bonn, Kalifa Goïta & Jean-Marie Dubois
 I did not replicate their approach but reading it was a good starting point.
-- "MSAN631-03 Geographic Information Systems - Course Notes" David S. Saah, PhD
+- *MSAN631-03 Geographic Information Systems - Course Notes* David S. Saah, PhD
 - Google Earth Engine Docs
 
 
