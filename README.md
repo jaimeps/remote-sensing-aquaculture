@@ -1,6 +1,6 @@
 ## Remote sensing: Tracking aquaculture in South Vietnam through Google Earth Engine
 
-<img src="https://github.com/jaimeps/remote-sensing-aquaculture/blob/master/images/gee_logo.png" width="150" align="center">
+<img align="center" src="https://github.com/jaimeps/remote-sensing-aquaculture/blob/master/images/gee_logo.png" width="150">
 
 
 ### Description
